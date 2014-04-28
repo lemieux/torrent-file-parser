@@ -13,6 +13,7 @@ The app has two parts : the bencode decoder and the lib. The bencode part is use
 Things to improve/add
 ---------------------
 
+- complex directory structure, this solution would cover multiple files, but only in the same directory (no nested directory)
 - add comments
 - had problems with the file checksum, not sure it is right
 - more validation to detect non torrent files and edge cases
